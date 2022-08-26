@@ -1,6 +1,6 @@
 <h2 p align='center'> Olá, meu nome é Junior Prestes Nogueira 👋</h2>
 
-<p align='center' >Sou estudante de Ciencia de Dados e programação em geral há alguns mêses, minha ênfase nos estudos atualmente esta em Python, para utilização de ferramentas com objetivo de coleta de dados (Scraping) e algumas análises. Também, linguagem SQL e banco de dados NoSQL como ElasticSearch.</p>
+<p align='center' >Sou estudante de Ciencia de Dados e programação em geral há alguns meses, minha ênfase nos estudos atualmente esta em Python, para utilização de ferramentas com objetivo de coleta de dados (Scraping) e algumas análises. Também, linguagem SQL e banco de dados NoSQL como ElasticSearch.</p>
 
 ___
 
